@@ -3,11 +3,11 @@ Repository for the master project xAI-Proj-M: Domain Generalization for Robust M
 
 
 # IDs
-Student: Jasmin Zimmermann
-Student-Id:
-Phone-Ids:
-- 01: Huawei P30 Lite
-- 02: Iphone ?
+- Student: Jasmin Zimmermann
+- Student-Id:
+- Phone-Ids:
+  - 01: Huawei P30 Lite
+  - 02: Iphone ?
 
 # Format
 - studentID_phoneID_classname_imageID.jpg (e.g. ABCABCABC_XX_notebook_001.jpg
