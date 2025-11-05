@@ -7,4 +7,4 @@ Repository for the master project xAI-Proj-M: Domain Generalization for Robust M
 - Student-Id:
 - Phone-Ids:
   - 01: Huawei P30 Lite
-  - 02: Iphone ?
+  - 02: Iphone 13
