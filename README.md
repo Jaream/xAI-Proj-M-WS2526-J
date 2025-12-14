@@ -9,3 +9,6 @@ Repository for the master project xAI-Proj-M: Domain Generalization for Robust M
   - 01: Huawei P30 Lite
   - 02: Iphone 13 mini
   - 03: Iphone 13
+  - 04: Huawei P30 Lite New Edition
+  - 05: Samsung Galaxy A53
+  - 06: Redmi Note 13
